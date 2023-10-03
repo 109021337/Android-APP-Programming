@@ -27,3 +27,9 @@
 ![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/3da6d488-278a-4837-886c-3c3a6e1130ca)
 
 ### 圖片切換器
+![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/4a28618b-8d0e-40fe-8af8-03a8b94fe398)
+
+![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/896d3108-9410-43e7-968d-9ff9d209b334)
+
+![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/e162117f-ef92-46be-8453-82f8633b8bfb)
+
