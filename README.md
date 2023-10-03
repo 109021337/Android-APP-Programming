@@ -54,3 +54,16 @@
 
 ![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/46f7e683-e3fd-4321-857c-26ff32cfb5cc)
 
+### 音樂撥放器
+![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/a8806fdd-35e9-44fb-b23e-391a591f2fcb)
+
+![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/3916e172-7b77-4606-82b7-a47c961c7ccd)
+
+![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/1100442b-c8f6-4f4b-9cbe-2da361b8b538)
+
+### 資料登記表單
+![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/dab71877-0fbc-4e5b-979e-44a708efae85)
+
+![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/8f1c3b16-dc0d-4501-8da0-04ae7cb38702)
+
+![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/a96396c3-bbd0-422f-954e-c8893ce91749)
