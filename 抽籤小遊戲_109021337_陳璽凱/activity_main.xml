@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bj"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="運勢抽卡機"
+        android:textSize="50dp"
+        android:layout_gravity="center"
+        android:textColor="#ffff00"
+        android:layout_marginTop="8dp"
+        ></TextView>
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:paddingTop="40dp"
+        >
+        <ImageView
+            android:id="@+id/tp1"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/z1"
+            android:layout_marginLeft="10dp"
+
+
+            ></ImageView>
+        <ImageView
+            android:id="@+id/tp2"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/z3"
+            android:layout_marginLeft="15dp"
+
+            ></ImageView>
+        <ImageView
+            android:id="@+id/tp3"
+            android:layout_marginLeft="15dp"
+
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/z2"
+
+            ></ImageView>
+
+
+    </TableRow>
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingTop="40dp"
+        >
+        <Button
+            android:id="@+id/btn_start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+
+            android:text="開始"
+            android:textSize="40dp"
+
+
+            ></Button>
+        <Button
+            android:id="@+id/btn_finish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:text="結束"
+            android:textSize="40dp"
+
+            ></Button>
+
+
+    </TableRow>
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:text="抽獎結果："
+        android:textColor="@color/black"
+        android:textSize="30dp"
+        ></TextView>
+
+</LinearLayout>
