@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="station">
+        <item>台北</item>
+        <item>桃園</item>
+        <item>新竹</item>
+        <item>台中</item>
+        <item>高雄</item>
+    </string-array>
+    <string-array name="ticket">
+        <item>全票</item>
+        <item>半票</item>
+        <item>優惠票</item>
+    </string-array>
+    <string-array name="count">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
