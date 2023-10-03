@@ -33,3 +33,24 @@
 
 ![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/e162117f-ef92-46be-8453-82f8633b8bfb)
 
+### 多筆圖片切換
+![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/d398b5d6-fdb7-4b8b-9504-023b232036f2)
+
+![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/b36191cf-8d63-4dcf-b57e-8d9c1f6f50fe)
+
+![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/613da905-dbce-4807-a09c-21d950377c6d)
+
+### 水果販賣店
+![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/a2d6e625-70bc-47ed-a0d0-40ba7588b037)
+
+![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/632cbdcb-b407-4d4a-98d0-061fb1570788)
+
+![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/48d82bb2-3477-4329-bb44-b16388d84c96)
+
+### 快捷鍵連結
+![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/b2daf89d-390a-4d38-a02a-1c4238b17040)
+
+![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/161fed54-6ac0-4687-bc66-9cae4a502276)
+
+![image](https://github.com/109021337/Android-APP-Programming/assets/80087148/46f7e683-e3fd-4321-857c-26ff32cfb5cc)
+
